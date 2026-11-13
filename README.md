@@ -198,4 +198,4 @@ This repository serves as the official landing page for Spyglass. The software i
 **Get the most recent version of Spyglass today!**
 
 ---
-**Last updated:** 2026-11-12 23:18:45 UTC
+**Last updated:** 2026-11-13 05:37:45 UTC
